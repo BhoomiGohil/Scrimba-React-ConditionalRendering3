@@ -14,8 +14,8 @@ This React application enables users to indicate whether they feel like going ou
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/BhoomiGohil/Srimba-React-ConditionalRendering3.git
-cd Srimba-React-ConditionalRendering3
+git clone https://github.com/BhoomiGohil/Scrimba-React-ConditionalRendering3.git
+cd Scrimba-React-ConditionalRendering3
 ```
 
 2. Install dependencies:
